@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+
+table, th {
+    border: 1px solid black;
+    height: 35px;
+    width: 35px;
+}
+
+table, input {
+    height: 35px;
+    width: 153px;
+    padding: 0px;
+}
+
+.nrmlbtn {
+    height: 35px;
+    width: 36px;
+    padding: 0px;
+}
